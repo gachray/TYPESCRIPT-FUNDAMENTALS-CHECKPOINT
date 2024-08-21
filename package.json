@@ -1,0 +1,13 @@
+{
+  "name": "ts-checkpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/car.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
